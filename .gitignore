@@ -1,0 +1,29 @@
+# --- Python Temporary Files ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- C extensions / Compiled Files ---
+*.so
+
+# --- Environments and Virtual Envs ---
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- IDEs / Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# --- Android Build System / Buildozer (If using it later) ---
+.buildozer/
+bin/
+*.apk
+*.aab
